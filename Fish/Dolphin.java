@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * This class defines a dolphin, dolphin lives underwater.
+ * This class defines a dolphin. Dolphin lives underwater.
  * 
  * @author Maxwell B. Lu
  * @version 1.0
