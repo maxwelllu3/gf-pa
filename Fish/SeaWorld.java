@@ -127,4 +127,12 @@ public class SeaWorld extends World
         Fish fish = new Fish();
         addObject(fish, 200, 340);
     }
+    
+    /**
+     * Return the current score
+     */
+    public int getScore()
+    {
+        return score;
+    }
 }

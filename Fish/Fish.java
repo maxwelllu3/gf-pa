@@ -8,6 +8,18 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Fish extends Actor
 { 
+    private GreenfootImage image1;
+    private GreenfootImage image2;
+    /**
+     * Create the fish and initialize its two images.
+     */
+    public Fish()
+    {
+       image1 = new GreenfootImage("Fish.png");
+       image2 = new GreenfootImage("Fish2.png");
+       setImage(image1);
+    }    
+    
     /**
      * Act - do whatever the Fish wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
@@ -16,6 +28,7 @@ public class Fish extends Actor
     {
        checkKeyPress();
        checkCollision();
+       checkScore();
     }    
     
     /**
@@ -79,6 +92,23 @@ public class Fish extends Actor
             removeTouching(Plankton.class);
             SeaWorld seaworld = (SeaWorld)getWorld();
             seaworld.addScore(10);            
+        }
+    }
+    
+    /**
+     * Check the score to adjust the size.
+     */
+    private void checkScore()
+    {
+        SeaWorld seaworld = (SeaWorld)getWorld();
+        if ((seaworld.getScore() >= 150) && (seaworld.getScore() < 200))
+        {
+            setImage(image2);
+        }
+        
+        if (seaworld.getScore() < 150)
+        {
+            setImage(image1);
         }
     }
 }
