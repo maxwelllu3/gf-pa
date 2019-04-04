@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * This class defines a plankton, plankton lives underwater.
+ * This class defines a plankton. Plankton lives underwater.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Maxwell B. Lu
+ * @version 1.0
  */
 public class Plankton extends Actor
 {

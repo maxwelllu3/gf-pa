@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Plankton
-comment0.text=\n\ This\ class\ defines\ a\ plankton,\ plankton\ lives\ underwater.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ This\ class\ defines\ a\ plankton.\ Plankton\ lives\ underwater.\n\ \n\ @author\ Maxwell\ B.\ Lu\n\ @version\ 1.0\n
 comment1.params=
 comment1.target=Plankton()
 comment1.text=\n\ Constructor\:\ Initialise\ the\ speed\ to\ a\ somewhat\ random\ value.\n
