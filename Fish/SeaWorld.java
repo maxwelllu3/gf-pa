@@ -96,6 +96,7 @@ public class SeaWorld extends World
         if (time == 0)
         {
             showEndMessage();
+            Greenfoot.playSound("fanfare.wav");
             Greenfoot.stop();
         }
     }
