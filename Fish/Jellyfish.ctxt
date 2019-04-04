@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Jellyfish
+comment0.text=\n\ This\ class\ defines\ a\ Jellyfish.\ Jellyfish\ lives\ underwater.\n\ \n\ @author\ Maxwell\ B.\ Lu\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Jellyfish()
+comment1.text=\n\ Constructor\:\ Initialise\ the\ speed\ to\ a\ somewhat\ random\ value.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ SmallerFish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\n\ Check\ whether\ we\ are\ touching\ another\ organism.\n
+numComments=4
