@@ -59,6 +59,7 @@ public class Fish extends Actor
 
         if (isTouching(BiggerFish.class)) 
         {
+            Greenfoot.playSound("au.wav");
             removeTouching(BiggerFish.class);
             SeaWorld seaworld = (SeaWorld)getWorld();
             seaworld.addScore(-50);            
@@ -66,6 +67,7 @@ public class Fish extends Actor
         
         if (isTouching(Shark.class)) 
         {
+            Greenfoot.playSound("au.wav");
             removeTouching(Shark.class);
             SeaWorld seaworld = (SeaWorld)getWorld();
             seaworld.addScore(-100);            
