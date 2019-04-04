@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Dolphin here.
+ * This class defines a dolphin, dolphin lives underwater.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Maxwell B. Lu
+ * @version 1.0
  */
 public class Dolphin extends Actor
 {
