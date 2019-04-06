@@ -24,7 +24,7 @@ public class Jellyfish extends Actor
     public void act() 
     {
         setLocation(getX()-speed, getY());
-        
+        checkCollision();
         if (getX() == 0) 
         {
             SeaWorld seaworld = (SeaWorld)getWorld();
