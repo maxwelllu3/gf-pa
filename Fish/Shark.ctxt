@@ -1,10 +1,10 @@
 #BlueJ class context
 comment0.target=Shark
-comment0.text=\r\n\ This\ class\ defines\ a\ shark.\ Shark\ lives\ underwater.\r\n\ \r\n\ @author\ Maxwell\ B.\ Lu\r\n\ @version\ 1.0\r\n
+comment0.text=\n\ This\ class\ defines\ a\ shark.\ Shark\ lives\ underwater.\n\ \n\ @author\ Maxwell\ B.\ Lu\n\ @version\ 1.0.1\n
 comment1.params=
 comment1.target=Shark()
-comment1.text=\r\n\ Constructor\:\ Initialise\ the\ speed\ to\ a\ somewhat\ random\ value.\r\n
+comment1.text=\n\ Constructor\:\ Initialise\ the\ speed\ to\ a\ somewhat\ random\ value.\n
 comment2.params=
 comment2.target=void\ act()
-comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ SmallerFish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ SmallerFish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
 numComments=3

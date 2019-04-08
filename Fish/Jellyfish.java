@@ -4,7 +4,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * This class defines a Jellyfish. Jellyfish lives underwater.
  * 
  * @author Maxwell B. Lu
- * @version 1.0
+ * @version 1.0.1
  */
 public class Jellyfish extends Actor
 {

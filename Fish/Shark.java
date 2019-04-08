@@ -4,7 +4,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * This class defines a shark. Shark lives underwater.
  * 
  * @author Maxwell B. Lu
- * @version 1.0
+ * @version 1.0.1
  */
 public class Shark extends Actor
 {

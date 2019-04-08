@@ -1,19 +1,19 @@
 #BlueJ class context
 comment0.target=Fish
-comment0.text=\r\n\ This\ class\ defines\ a\ fish.\ Fish\ lives\ underwater.\r\n\ \r\n\ @author\ Maxwell\ B.\ Lu\r\n\ @version\ 1.0\r\n
+comment0.text=\n\ This\ class\ defines\ a\ fish.\ Fish\ lives\ underwater.\n\ \n\ @author\ Maxwell\ B.\ Lu\n\ @version\ 1.0.1\n
 comment1.params=
 comment1.target=Fish()
-comment1.text=\r\n\ Create\ the\ fish\ and\ initialize\ its\ two\ images.\r\n
+comment1.text=\n\ Create\ the\ fish\ and\ initialize\ its\ two\ images.\n
 comment2.params=
 comment2.target=void\ act()
-comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Fish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Fish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
 comment3.params=
 comment3.target=void\ checkKeyPress()
-comment3.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment3.text=\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\n
 comment4.params=
 comment4.target=void\ checkCollision()
-comment4.text=\r\n\ Check\ whether\ we\ are\ touching\ another\ organism.\r\n
+comment4.text=\n\ Check\ whether\ we\ are\ touching\ another\ organism.\n
 comment5.params=
 comment5.target=void\ checkScore()
-comment5.text=\r\n\ Check\ the\ score\ to\ adjust\ the\ size.\r\n
+comment5.text=\n\ Check\ the\ score\ to\ adjust\ the\ size.\n
 numComments=6
