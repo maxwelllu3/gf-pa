@@ -18,7 +18,7 @@ public class Dolphin extends Actor
     }
     
     /**
-     * Act - do whatever the SmallerFish wants to do. This method is called whenever
+     * Act - do whatever the Dolphin wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act() 

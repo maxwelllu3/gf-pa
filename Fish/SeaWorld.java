@@ -26,7 +26,7 @@ public class SeaWorld extends World
     }
     
     /**
-     * Create new floating objects at irregular intervals.
+     * Create new organisms at irregular intervals.
      */
     public void act()
     {
@@ -64,7 +64,7 @@ public class SeaWorld extends World
     
     /**
      * Add some points to our current score. (May be negative.)
-     * If the score falls below 0, game's up.
+     * If the score falls below 0, game's over.
      */
     public void addScore(int points)
     {
@@ -120,7 +120,7 @@ public class SeaWorld extends World
     
     /**
      * Prepare the world for the start of the program. In this case: Create
-     * a white blood cell and the lining at the edge of the blood stream.
+     * a fish at the left side of the World, at 200x340.
      */
     private void prepare()
     {

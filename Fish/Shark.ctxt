@@ -6,5 +6,5 @@ comment1.target=Shark()
 comment1.text=\n\ Constructor\:\ Initialise\ the\ speed\ to\ a\ somewhat\ random\ value.\n
 comment2.params=
 comment2.target=void\ act()
-comment2.text=\n\ Act\ -\ do\ whatever\ the\ SmallerFish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Shark\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
 numComments=3
